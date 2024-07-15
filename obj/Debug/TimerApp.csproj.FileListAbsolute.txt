@@ -1,0 +1,15 @@
+C:\Users\Andrey\source\repos\TimerApp\TimerApp\bin\Debug\TimerApp.exe.config
+C:\Users\Andrey\source\repos\TimerApp\TimerApp\bin\Debug\TimerApp.exe
+C:\Users\Andrey\source\repos\TimerApp\TimerApp\bin\Debug\TimerApp.pdb
+C:\Users\Andrey\source\repos\TimerApp\TimerApp\obj\Debug\TimerApp.csproj.AssemblyReference.cache
+C:\Users\Andrey\source\repos\TimerApp\TimerApp\obj\Debug\MainWindow.g.cs
+C:\Users\Andrey\source\repos\TimerApp\TimerApp\obj\Debug\App.g.cs
+C:\Users\Andrey\source\repos\TimerApp\TimerApp\obj\Debug\TimerApp_MarkupCompile.cache
+C:\Users\Andrey\source\repos\TimerApp\TimerApp\obj\Debug\TimerApp_MarkupCompile.lref
+C:\Users\Andrey\source\repos\TimerApp\TimerApp\obj\Debug\MainWindow.baml
+C:\Users\Andrey\source\repos\TimerApp\TimerApp\obj\Debug\TimerApp.g.resources
+C:\Users\Andrey\source\repos\TimerApp\TimerApp\obj\Debug\TimerApp.Properties.Resources.resources
+C:\Users\Andrey\source\repos\TimerApp\TimerApp\obj\Debug\TimerApp.csproj.GenerateResource.cache
+C:\Users\Andrey\source\repos\TimerApp\TimerApp\obj\Debug\TimerApp.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\TimerApp\TimerApp\obj\Debug\TimerApp.exe
+C:\Users\Andrey\source\repos\TimerApp\TimerApp\obj\Debug\TimerApp.pdb
